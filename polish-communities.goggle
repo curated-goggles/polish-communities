@@ -1,0 +1,12 @@
+! name: Polish communities
+! description: Boosts communities from Poland that are kinda like hackernews (news.ycombinator.com) or reddit or even slatestarcodex.com
+! public: true
+! author: Michal fudala
+! avatar: #1F62A6
+
+$boost=3,site=4programmers.net
+$boost=2,site=wykop.pl
+$boost=4,site=https://www.reddit.com/r/Polska/
+$boost=4,site=finanseforum.pl
+
+
