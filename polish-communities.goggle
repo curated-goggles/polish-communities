@@ -6,7 +6,7 @@
 
 $boost=3,site=4programmers.net
 $boost=2,site=wykop.pl
-$boost=4,site=https://www.reddit.com/r/Polska/
+/r/Polska/$boost=4,site=reddit.com
 $boost=4,site=finanseforum.pl
 
 
